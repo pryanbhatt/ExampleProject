@@ -1,0 +1,22 @@
+{
+  "name": "exampleproject",
+  "version": "1.0.0",
+  "description": "this is a sample project for todays assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pryanbhatt/ExampleProject.git"
+  },
+  "author": "priyankar bhattacharjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pryanbhatt/ExampleProject/issues"
+  },
+  "homepage": "https://github.com/pryanbhatt/ExampleProject#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
